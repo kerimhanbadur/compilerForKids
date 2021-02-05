@@ -1,0 +1,16 @@
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\bin\Debug\programmingLanguage.exe.config
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\bin\Debug\programmingLanguage.exe
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\bin\Debug\programmingLanguage.pdb
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.csprojResolveAssemblyReference.cache
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.Form1.resources
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.Properties.Resources.resources
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.csproj.GenerateResource.Cache
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.exe
+c:\users\badur-pc\documents\visual studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.pdb
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.about.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.howItWorks.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.examples.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.toplama.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.cikarma.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.carpma.resources
+C:\Users\BADUR-PC\Documents\Visual Studio 2015\Projects\programmingLanguage\programmingLanguage\obj\Debug\programmingLanguage.bolme.resources
